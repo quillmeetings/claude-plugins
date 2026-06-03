@@ -1,0 +1,11 @@
+{
+  "name": "quillmeetings",
+  "owner": { "name": "Quill Meetings", "email": "m@quillmeetings.com" },
+  "plugins": [
+    {
+      "name": "quill-deep-analysis",
+      "source": { "source": "github", "repo": "quillmeetings/claude-skill-quill-deep-analysis" },
+      "description": "Deep map/reduce research over your Quill meeting corpus: time-sharded map/reduce across parallel sub-agents into a fact-first analytical report."
+    }
+  ]
+}
