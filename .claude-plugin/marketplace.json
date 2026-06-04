@@ -7,7 +7,7 @@
       "name": "quill-deep-analysis",
       "source": { "source": "github", "repo": "quillmeetings/claude-skill-quill-deep-analysis" },
       "description": "Turn months of meetings in Quill into a deeply researched report. Ask a big question — 'what did customers actually say about pricing last quarter?', 'give me a balanced year-in-review for Maria's performance review' — and it reads across your whole Quill history, gathers evidence pro/con, brainstorms different perspectives and followup questions, and writes a report you can drill into, with every claim linked back to the moment it was said.",
-      "author": { "name": "Quill Meetings (official)", "url": "https://github.com/quillmeetings" },
+      "author": { "name": "Quill Meetings (official)", "url": "https://quillmeetings.com" },
       "license": "Apache-2.0",
       "tags": ["skills", "research", "meetings", "mcp", "transcripts", "contacts", "analysis"],
       "skills": ["./skills/meeting-transcript-research"]
