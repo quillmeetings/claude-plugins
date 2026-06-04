@@ -5,7 +5,7 @@
     {
       "name": "quill-deep-analysis",
       "source": { "source": "github", "repo": "quillmeetings/claude-skill-quill-deep-analysis" },
-      "description": "Deep map/reduce research over your Quill meeting corpus: time-sharded map/reduce across parallel sub-agents into a fact-first analytical report."
+      "description": "Turn months of meetings in Quill into a deeply researched report. Ask a big question — 'what did customers actually say about pricing last quarter?', 'give me a balanced year-in-review for Maria's performance review' — and it reads across your whole Quill history, gathers evidence pro/con, brainstorms different perspectives and followup questions, and writes a report you can drill into, with every claim linked back to the moment it was said."
     }
   ]
 }
